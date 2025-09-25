@@ -61,8 +61,7 @@ Sri Ramakrishna Engineering College, Coimbatore
 ---
 
 ## 📈 GitHub Stats  
-
-![Balaji's GitHub Stats](https://github-readme-stats.vercel.app/api?username=balaji-0212&show_icons=true&theme=radical)  
+ 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=balaji-0212&layout=compact&theme=radical)
 
 ---
