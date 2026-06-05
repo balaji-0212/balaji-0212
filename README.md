@@ -1,4 +1,4 @@
-# Hi there, I'm Balaji S 👋  
+# Hi there, I'm Balaji Sivakumar 👋  
 
 🎓 **Electronics & Communication Engineering Graduate (2025)**  
 💻 **Aspiring Data Analyst | Software Developer | IoT & ML Enthusiast**  
